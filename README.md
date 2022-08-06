@@ -103,3 +103,4 @@ wrapper.format("I :heart: Python", wrapper.formattation.emoji)
 - emoji
 """
 ```
+
